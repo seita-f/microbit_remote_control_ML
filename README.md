@@ -7,7 +7,7 @@
 # Env
 
 
-# Retrieve data
+# Remote data collection
 
 
 # Analysis
