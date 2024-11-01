@@ -1,1 +1,22 @@
-# microit_remote_control_ML
+# Intro
+
+
+# Outline
+
+
+# Env
+
+
+# Retrieve data
+
+
+# Analysis
+
+
+# Create Model
+
+
+# Evalation
+
+
+# Test
